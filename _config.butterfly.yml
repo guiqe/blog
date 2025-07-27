@@ -1119,3 +1119,19 @@ CDN:
     # valine:
     # waline_css:
     # waline_js:
+# Image (圖片設置)
+# --------------------------------------
+
+# The banner image of home page
+index_img: transparent
+
+# Beautify/Effect (美化/效果)
+# --------------------------------------
+
+# Website Background (設置網站背景)
+# can set it to color or image (可設置圖片 或者 顔色)
+# The formal of image: url(http://xxxxxx.com/xxx.jpg)
+background: url(https://wallpaperm.cmcm.com/9cca3afcca8c0a79eac6a39aad5d65ec.jpg)
+
+# Footer Background
+footer_bg: transparent
