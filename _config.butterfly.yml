@@ -11,11 +11,31 @@ nav:
   display_post_title: true
   # 是否固定导航栏
   fixed: true
+
+MARKDOWN
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
 menu:
-  首页: / || fas fa-home
-  列表||fas fa-list:
-  音乐: /music/ || fas fa-music
-  电影: /movies/ || fas fa-video
+首页: / || fas fa-home
+时间轴: /archives/ || fas fa-archive
+标签: /tags/ || fas fa-tags
+分类: /categories/ || fas fa-folder-open
+清单||fa fa-heartbeat:
+音乐: /music/ || fas fa-music
+照片: /Gallery/ || fas fa-images
+电影: /movies/ || fas fa-video
+友链: /link/ || fas fa-link
+关于: /about/ || fas fa-heart
+
 
 # --------------------------------------
 # 代码块设置
