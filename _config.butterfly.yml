@@ -107,9 +107,9 @@ background: /img/bg.jpg
 # 封面设置
 cover:
   # 是否禁用封面
-  index_enable: false
-  aside_enable: false
-  archives_enable: false
+  index_enable: true
+  aside_enable: true
+  archives_enable: true
   # 主页封面的位置
   # 选择: left/right/both
   position: both
