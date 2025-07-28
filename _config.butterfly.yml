@@ -10,13 +10,12 @@ nav:
   # 是否在滚动时显示文章标题
   display_post_title: true
   # 是否固定导航栏
-  fixed: false
-
+  fixed: true
 menu:
   首页: / || fas fa-home
-   列表||fas fa-list:
-    音乐: /music/ || fas fa-music
-    电影: /movies/ || fas fa-video
+  列表||fas fa-list:
+  音乐: /music/ || fas fa-music
+  电影: /movies/ || fas fa-video
 
 # --------------------------------------
 # 代码块设置
