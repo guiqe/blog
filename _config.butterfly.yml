@@ -4,7 +4,7 @@
 
 nav:
   # 导航栏 Logo 图片
-  logo: /img/neav.png
+  logo: /img/neav.ico
   # 是否显示标题
   display_title: true
   # 是否在滚动时显示文章标题
