@@ -17,16 +17,21 @@ nav:
   # Whether to fix navigation bar
   fixed: true
 
-
-#  首页: / || fas fa-home
-#  标签: /tags/ || fas fa-tags
-#  清单||fa fa-heartbeat:
-#  音乐: /music/ || fas fa-music
-#  照片: /Gallery/ || fas fa-images
-#  电影: /movies/ || fas fa-video
-#  友链: /link/ || fas fa-link
-#  关于: /about/ || fas fa-heart
-
+meau:
+  # Navigation bar menu
+  # Format: - name: 'Menu Name' || link: 'https://example.com' || icon: 'fa fa-icon'
+  - name: 'Home'
+    link: /
+    icon: fas fa-home
+  - name: 'Archives'
+    link: /archives/
+    icon: fas fa-archive
+  - name: 'Tags'
+    link: /tags/
+    icon: fas fa-tags
+  - name: 'Categories'
+    link: /categories/
+    icon: fas fa-folder
 
 作者: Jerry
 連結: https://butterfly.js.org/posts/4aa8abbe/
