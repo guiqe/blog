@@ -288,10 +288,10 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/guiqe
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: lmfao的博客
   card_recent_post:
     enable: true
     # If set 0 will show all
@@ -361,7 +361,7 @@ rightside_bottom:
 
 # Conversion between Traditional and Simplified Chinese
 translate:
-  enable: false
+  enable: true
   # The text of a button
   default: 繁
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
