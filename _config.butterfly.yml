@@ -343,15 +343,12 @@ aside:
       # 按钮文本
       text: Follow Me
       # 按钮链接
-      link: https://github.com/xxxxxx
+      link: https://github.com/guiqe
   card_announcement:
     # 是否显示公告卡片
     enable: true
     # 公告内容
-    content: lmfao的个人博客 
-     tg频道:t.me/lmfaopd
-     tg交流群:t.me/lmfaoqunliao
-     dc服务器:https://discord.gg/88nfSgf88e
+    content: 联系方式:chat.lmfao.icu
 
   card_recent_post:
     # 是否显示最近文章卡片
@@ -1036,10 +1033,10 @@ canvas_nest:
 # 鼠标点击效果: 烟花
 fireworks:
   # 是否启用烟花效果
-  enable: false
+  enable: true
   zIndex: 9999
   # 是否在移动设备上启用
-  mobile: false
+  mobile: true
 
 # 鼠标点击效果: 心形符号
 click_heart:
