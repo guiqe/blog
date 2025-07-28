@@ -18,8 +18,6 @@ nav:
   fixed: true
 
 meau:
-  # Navigation bar menu
-  Format: - name: 'Menu Name' || link: 'https://lmfao.icu' || icon: 'fa fa-icon'
   - name: 'Home'
     link: /
     icon: fas fa-home
