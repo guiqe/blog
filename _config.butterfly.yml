@@ -652,7 +652,7 @@ gitalk:
   # GitHub 应用的客户端 ID
   client_id: Ov23liMDejTCkFHCXGRb
   # GitHub 应用的客户端密钥
-  client_secret: 
+  client_secret: PLACEHOLDER_CLIENT_SECRET
   # 存储评论的仓库名称
   repo: blog
   # 仓库拥有者的用户名
