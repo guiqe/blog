@@ -16,6 +16,8 @@ nav:
   display_post_title: true
   # Whether to fix navigation bar
   fixed: true
+
+
 menu:
   首页: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
