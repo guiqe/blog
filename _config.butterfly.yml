@@ -107,9 +107,9 @@ background: /img/bg.jpg
 # 封面设置
 cover:
   # 是否禁用封面
-  index_enable: true
-  aside_enable: true
-  archives_enable: true
+  index_enable: false
+  aside_enable: false
+  archives_enable: false
   # 主页封面的位置
   # 选择: left/right/both
   position: both
@@ -322,7 +322,7 @@ aside:
   # 移动设备上是否启用侧边栏
   mobile: true
   # 侧边栏位置：left / right
-  position: right
+  position: left
   display:
     # 归档页面是否显示侧边栏
     archive: true
@@ -348,7 +348,7 @@ aside:
     # 是否显示公告卡片
     enable: true
     # 公告内容
-    content: This is my Blog
+    content: lmfao的个人博客
   card_recent_post:
     # 是否显示最近文章卡片
     enable: true
